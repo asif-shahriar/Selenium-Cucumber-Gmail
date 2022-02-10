@@ -12,7 +12,7 @@
 ```
 mvn clean install
 ```
-
+## Screenshots
 These are the snapshots of **Cucumber** html reports:
 
 ![Screenshot_1](https://user-images.githubusercontent.com/71173675/153038659-3d22d346-1d0e-40f8-aaa2-56098868f54a.png)
